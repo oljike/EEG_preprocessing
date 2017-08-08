@@ -1,6 +1,6 @@
 % EEGLAB history file generated on the 08-Aug-2017
 % ------------------------------------------------
-%This script provedes the Matlab code for preprocessing the EEG data
+%This script provedes the Matlab code for preprocessing the EEG data for a random participant. You need customize it specifically for you puproses.
 
 
 EEG.etc.eeglabvers = '14.1.0'; % this tracks which version of EEGLAB is being used, you may ignore it
